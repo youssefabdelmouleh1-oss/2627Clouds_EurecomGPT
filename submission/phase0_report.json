@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "youssef.abdelmouleh@eurecom.fr",
+    "project": "project-4834d818-b7e9-44db-a94",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.9.2, build a82e528",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/youssefabdelmouleh1-oss/2627Clouds_EurecomGPT",
+    "is_github": true,
+    "slug": "youssefabdelmouleh1-oss/2627Clouds_EurecomGPT"
+  }
+}
